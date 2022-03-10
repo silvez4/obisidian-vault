@@ -10,7 +10,7 @@
 	Red, Blue, Green; 
 	Aditivas = Ao Juntar todas da Branco
 	
-### HSB
+### HSL
 	Hue, Saturation, Brightness
 	Saturação = O quanto da cor está presente
 	Brilho = O quanto de Branco está presente
